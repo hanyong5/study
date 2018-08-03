@@ -1,5 +1,4 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+/_site
+*.gem
+.sass-cache
+Gemfile.lock
